@@ -36,7 +36,7 @@ streamlit run app.py
 
 ---
 
-# 🏆 STEP 4 — Create GitHub Repository
+## 🏆 STEP 4 — Create GitHub Repository
 
 👉 Go to: https://github.com  
 👉 Click **New Repository**
@@ -56,7 +56,7 @@ Click **Create Repository**
 
 ---
 
-# 🚀 STEP 5 — Upload Files (Easy Method)
+## 🚀 STEP 5 — Upload Files (Easy Method)
 
 ## Option A — Upload via Website (Recommended)
 
