@@ -29,11 +29,10 @@ PhiUSIIL Phishing URL Dataset (UCI Repository)
 
 ## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+bash
+pip install -r requirements.
 
-## 🏆** STEP 4 — Create GitHub Repository**
+## 🏆STEP 4 — Create GitHub Repository
 
 👉 Go to: https://github.com  
 👉 Click **New Repository**
@@ -52,9 +51,7 @@ Fill:
 Click **Create Repository**
 
 
-## 🚀 STEP 5 — Upload Files (Easy Method)
-
-## Option A — Upload via Website (Recommended)
+## 🚀 STEP 5 — Upload Files
 
 1. Open your repo
 2. Click **Add file → Upload files**
@@ -62,3 +59,8 @@ Click **Create Repository**
 4. Click **Commit changes**
 
 DONE 🎉
+
+
+## 👤Author
+
+Gagan kumar Rajulapati
