@@ -32,3 +32,37 @@ PhiUSIIL Phishing URL Dataset (UCI Repository)
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+---
+
+# 🏆 STEP 4 — Create GitHub Repository
+
+👉 Go to: https://github.com  
+👉 Click **New Repository**
+
+Fill:
+
+- Repository name:  
+  👉 `phishing-website-detection`
+
+- Description:  
+  👉 ML-based phishing detection using Streamlit
+
+- Public ✔️  
+- Initialize with README ❌ (you already have one)
+
+Click **Create Repository**
+
+---
+
+# 🚀 STEP 5 — Upload Files (Easy Method)
+
+## Option A — Upload via Website (Recommended)
+
+1. Open your repo
+2. Click **Add file → Upload files**
+3. Drag your project folder files
+4. Click **Commit changes**
+
+DONE 🎉
