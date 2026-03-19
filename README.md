@@ -33,10 +33,7 @@ PhiUSIIL Phishing URL Dataset (UCI Repository)
 pip install -r requirements.txt
 streamlit run app.py
 
-
----
-
-## 🏆 STEP 4 — Create GitHub Repository
+## 🏆** STEP 4 — Create GitHub Repository**
 
 👉 Go to: https://github.com  
 👉 Click **New Repository**
